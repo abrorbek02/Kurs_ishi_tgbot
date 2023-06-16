@@ -73,6 +73,7 @@ function showSearchedGroup($group_name): void
 
 }
 
+
 function showAbilities(): void
 {
     $text="Bot yordamida quyidagi imkoniyatlardan foydalanishingiz mumkin:".PHP_EOL;
