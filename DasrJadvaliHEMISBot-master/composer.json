@@ -1,0 +1,9 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.5",
+    "ext-json": "*",
+    "ext-mysqli": "*",
+    "vlucas/phpdotenv": "^5.5",
+    "ext-http": "*"
+  }
+}
