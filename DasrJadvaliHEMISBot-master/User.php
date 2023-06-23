@@ -3,6 +3,7 @@ require_once 'db.php';
 class User
 {
     private $chat_id;
+
     private $name;
 
     public function __construct($chat_id, $name)
